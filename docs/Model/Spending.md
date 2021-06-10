@@ -8,7 +8,7 @@ Name | Type | Description | Notes
 **category** | [**\Swagger\Client\Model\Category**](Category.md) |  | [optional] 
 **paid_at** | [**\DateTime**](\DateTime.md) |  | [optional] 
 **fulfillment_date** | [**\DateTime**](\DateTime.md) |  | [optional] 
-**partner** | [**OneOfSpendingPartner**](OneOfSpendingPartner.md) |  | [optional] 
+**partner** | [**\Swagger\Client\Model\SpendingPartner**](SpendingPartner.md) |  | [optional] 
 **invoice_number** | **string** |  | [optional] 
 **currency** | [**\Swagger\Client\Model\Currency**](Currency.md) |  | [optional] 
 **total_gross** | **float** |  | [optional] 
